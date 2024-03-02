@@ -1,0 +1,13 @@
+p,table,ol {font-size:20px;
+			
+		}
+h2 {color:#000080;font-size:40px;}
+
+img{box-shadow: 10px 10px 5px #888888;}
+
+h1{text-shadow: 2px 2px #bb0000; background-color:blue; color:white; width: max-content; margin:auto;}
+		
+table,th,td,tr { 
+border:1px solid black;
+border-collapse:collapse;
+}
